@@ -401,6 +401,7 @@ English | [中文](README-zh.md)
 + [Cloud Vision API](https://cloud.google.com/vision/) - Google Cloud Vision API enables developers to understand the content of an image by encapsulating powerful machine learning models in an easy to use REST API.
 + [Computer Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) - The Computer Vision API by Microsoft provides state-of-the-art algorithms to process images and return information.
 + [Face++](https://console.faceplusplus.com/documents/5678948) - Face++ Cognitive Services is a platform offering computer vision technologies that enable your applications to read and understand the world better.
++ [Facial IO](https://rapidapi.com/apishub/api/facialio-com-face-recognition) - Simple face recognition api.
 + [Watson Visual Recognition](https://www.ibm.com/watson/developercloud/visual-recognition/api/v3/#introduction) - The IBM Watson™ Visual Recognition service identifies scenes, objects, and celebrity faces in images you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs.
 + [wozhitu](http://api1.wozhitu.com/) - Access to wozhitu's vision analysis APIs.(**Missing English Docs**)
 
